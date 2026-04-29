@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Hui-Hung(Teddy) Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://teddyyyyyy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "S__98722305.jpg"
-  name             : "Hui-Hung Chen"
+  avatar           : "S__98722305.png"
+  name             : "Hui-Hung(Teddy) Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI & Computer Vision for Medical Imaging in China Medical University Hsinchu Hospital"
   location         : "Hsinchu, Taiwan"
-  employer         : "China Medical University Hsinchu Hospital"
+  employer         : # "China Medical University Hsinchu Hospital"
   uri              : # URL
   email            : "tzu850606@gmail.com" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/hui-hung-chen-9b5156294"
   mastodon         : # URL
   medium           : "https://medium.com/@tzu850606"
   pinterest        : # Username
